@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<Biome_ToolBagUda.RockSetterDef>
+		<defName>testRockSetter</defName>
+		 <RockDefNames>
+			<li>Sandstone</li>
+		 </RockDefNames>
+		<BiomeDefNames>
+			<li>Desert</li>
+		</BiomeDefNames>
+	 <onlyRocksInBiome>true</onlyRocksInBiome>
+		
+	</Biome_ToolBagUda.RockSetterDef>
+
+	<Biome_ToolBagUda.RockSetterDef>
+		<defName>testRockSetter2</defName>
+		 <RockDefNames>
+			<li>Granite</li>
+			<li>Limestone</li>
+		 </RockDefNames>
+		<BiomeDefNames>
+			<li>Tundra</li>
+		</BiomeDefNames>
+	 <onlyRocksInBiome>true</onlyRocksInBiome>
+		
+	</Biome_ToolBagUda.RockSetterDef>
+
+
+</Defs>
